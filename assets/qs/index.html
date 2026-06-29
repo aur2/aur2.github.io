@@ -1,19 +1,12 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
+  <meta charset="UTF-8">
+  <title></title>
 <script>
-const data = {
-    "bb":"1.0",
-    "nr":"更新啦",
-    "url":"https://qq.com"
-};
-// 自动取json里的url赋值给页面标题
-document.title = data.url;
-document.body.innerText = JSON.stringify(data);
+const data={"bb":"1.0","nr":"更新啦","url":"https://qq.com"};
+document.title=data.url;
+document.body.innerText=JSON.stringify(data);
 </script>
 </body>
 </html>
