@@ -6,11 +6,7 @@
 </head>
   <body>
 <script>
-const data={
-"bb": "1.0",
-"nr": "更新啦",
-"url": "https://qq.com"
-};
+const data={"bb": "1.0","nr": "更新啦","url": "https://qq.com"};
 document.body.innerText=JSON.stringify(data, null, 2);
 </script>
 </body>
