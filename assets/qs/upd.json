@@ -1,1 +1,5 @@
-{"bb":"1.8","nr":"喵喵喵~","url":"https://aur2.github.io/assets/qs/java.zip"}
+{
+  "bb": "1.9",
+  "nr": "处理选项异常bug，对弹窗代码进行优化调整",
+  "url": "https://aur2.github.io/assets/qs/java1.9.zip"
+}
