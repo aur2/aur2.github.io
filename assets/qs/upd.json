@@ -1,5 +1,5 @@
 {
-  "bb": "1.9",
-  "nr": "处理选项异常bug，对弹窗代码进行优化调整",
-  "url": "https://aur2.github.io/assets/qs/java1.9.zip"
+  "bb": "2.0",
+  "nr": "修复列表按钮缺参闪退、标签共用布局参数错乱",
+  "url": "https://aur2.github.io/assets/qs/java2.0.zip"
 }
