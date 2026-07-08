@@ -1,5 +1,5 @@
 {
-  "bb": "1.0",
-  "nr": "喵喵喵~",
-  "url": "https://aur2.github.io/assets/qf/java1.0.zip"
+  "bb": "1.1",
+  "nr": "1. 修复私聊语音发送目标为0的bug\n2. 新增历史折叠箭头,默认单行展示\n3. 增加长按语音模式,可开关变声样式",
+  "url": "https://aur2.github.io/assets/qf/java1.1.zip"
 }
