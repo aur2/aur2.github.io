@@ -1,5 +1,5 @@
 {
-  "bb": "1.3",
-  "nr": "1. 修复 QQ/网易点歌失败问题\n2. 新增 未知bug",
-  "url": "https://aur2.github.io/assets/qf/java1.3.zip"
+  "bb": "1.4",
+  "nr": "1. 新增独立「设置」弹窗，整合多项开关\n2. 新增文本选歌模式，纯文字发送歌曲列表\n3. 图片/文本选歌互斥，开其一另个自动关闭\n4. 新增变声气泡，发送语音时可变声效果",
+  "url": "https://aur2.github.io/assets/qf/java1.4.zip"
 }
