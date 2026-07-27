@@ -1,0 +1,101 @@
+{
+    "code": 0,
+    "msg": "获取成功",
+    "data": [
+        {
+            "name": "羽雫の点歌",
+            "author": "猫羽雫",
+            "desc": "最新名词解释，“别来无恙”，你别来我就不会生病。\n作者:玉宁熙\n适配类型:QStory(新,旧)/Serendipity",
+            "version": "3.3.9",
+            "path": "https://sfile.chatglm.cn/chatglm4/file/c6/c61dc9eb93.zip"
+        },
+        {
+            "name": "SVIP气泡",
+            "author": "云梦泽",
+            "desc": "可使用Svip气泡和付费气泡，可不断添加气泡id形成百变气泡，添加后重启QQ即可生效\n长按右下角➕号打开开关\n口令：免费气泡,当前气泡,加气泡,更新气泡",
+            "version": "1.5",
+            "path": "https://sfile.chatglm.cn/chatglm4/file/69/69c637ebfa.zip"
+        },
+        {
+            "name": "艾特回复",
+            "author": "哇嘎奶",
+            "desc": "聊天内长按右下角加号打开设置",
+            "version": "1.6",
+            "path": "https://sfile.chatglm.cn/chatglm4/file/63/630395f9a1.zip"
+        },
+        {
+            "name": "五子棋",
+            "author": "云汐",
+            "desc": "这家伙很懒，什么也没留下...",
+            "version": "1",
+            "path": "https://sfile.chatglm.cn/chatglm4/314552c4-60ee-42e0-b012-ac38b04b9934.zip"
+        },
+        {
+            "name": "抽奖转盘",
+            "author": "食言",
+            "desc": "自己打开main.java看",
+            "version": "6.24",
+            "path": "https://sfile.chatglm.cn/chatglm4/271c3956-056c-4307-827f-e75422971dc6.zip"
+        },
+        {
+            "name": "鹿子零",
+            "author": "鹿子零",
+            "desc": "1.长按消息：文转语音/上传头像/克隆头像/图片链接/取图外显/提取音频/回应表情/视频主页/好友装扮/超级大图/匿问我答\n\n2.弹窗功能：语音功能/在线视频/美女壁纸/随机语音/快捷功能/好友线索/超级大图/随机一言\n\n同时适配se/qs解压对应脚本目录路径下即可使用\n\n温馨提示：专门为个人打造脚本功能其他人均无法触发",
+            "version": "4.8",
+            "path": "https://sfile.chatglm.cn/chatglm4/81755cbe-d310-453e-9cdc-eaded1dfa9e5.zip"
+        },
+        {
+            "name": "浅夏娱乐菜单",
+            "author": "原作者九号(二改 浅夏微风)",
+            "desc": "指令:文字#娱乐菜单,文字#图片菜单,文字#视频菜单,文字#语音菜单,文字#文案菜单\n图片#图片菜单,图片#语音菜单,图片#视频菜单,图片#文案菜单,文字#拓展菜单\n\n新增视频解析：抖音快手哔哩哔哩视频纯链接解析(必须是http链接开头) 指令是#解析+链接",
+            "version": "1.1",
+            "path": "https://sfile.chatglm.cn/chatglm4/2c4ecb7d-9c0a-4617-a8f6-93f3fee5972e.zip"
+        },
+        {
+            "name": "QQ播放器",
+            "author": "冷雨",
+            "desc": "1.QQ播放器，禁止外传，被泛滥就跑路\n2.用这个脚本，省得开会员，还支持臻品母带\n3.如果一直播放\"跑路了\"那就证明没跑路，真跑路了的话啥提示都没有，那时候我也会在群里说\n4.刷新歌单后可能需要重新加载\n5. 默认指令为\"菜单\"\n6. 用Serendipity模块的不用下载QQ音乐app，用QStory模块的需要下载QQ音乐app",
+            "version": "5.3.3",
+            "path": "https://sfile.chatglm.cn/chatglm4/file/f7/f7f6890b09.zip",
+            "uploadUin": "1395477768"
+        },
+        {
+            "name": "授权",
+            "author": "冷雨",
+            "desc": "开通QQ播放器授权(代理用)\n\n指令\"授权菜单\"",
+            "version": "5.2.3",
+            "path": "https://sfile.chatglm.cn/chatglm4/692c2101-d9bc-4e32-83a2-3633e5c0064c.zip"
+        },
+        {
+            "name": "顾之Java",
+            "author": "冷雨",
+            "desc": "指令为 开机 菜单\n作者:1431136407---顾之.(冷雨)\n反馈群:641486099,903976754,922192315,774224871(新群)\n\nYou came into my life,just like another season.\n你来到我的生命中，就像是另一个新的季节。\n\n本产品属于冷雨系列脚本，有问题/建议反馈给冷雨(1431136407)\n\n用户须知:\n* 禁止倒卖\n* 禁止在QQ/腾讯/tim官方群炫耀本脚本\n* 个人使用的功能无需开机:群管菜单/站长功能/表情功能等等\n* 自己写的拓展脚本请起名为\"拓展-XXX.java\"，无需重载，可以直接识别\n* 如果觉得卡，请仅加载某些特定功能对应的java\n* 请不定时清除冷雨Java储存目录中的数据，因为无效数据不会自动清除，清除时需先了解数据重要性，以防重要数据丢失",
+            "version": "7.6.4",
+            "path": "https://sfile.chatglm.cn/chatglm4/file/be/be6e65690b.zip",
+            "uploadUin": "3026943018"
+        },
+        {
+            "name": "绕过社交限制发言",
+            "author": "懒",
+            "desc": "加载脚本再进行发言即可绕过社交限制(无法发言限制)\n每句话需要在15个字符内(不要使用特殊字符)",
+            "version": "1.1",
+            "path": "https://sfile.chatglm.cn/chatglm4/dc3792b5-9ecd-48a4-a200-18e7a825b879.zip",
+            "uploadUin": "2633141805"
+        },
+        {
+            "name": "社交收款聊天",
+            "author": "诉求",
+            "desc": "灵感来源:懒懒(3597389055)\n\n*最好控制字体数量在19字以内(其实多长都能发，就是会缺几段)\n*请将版本更新至se最新版(0.5.6)\n*qs使用此脚本的时候不要用se的复读\n*反之se用户不要使用qs的复读\n\n*需要QQ实名钱包才能使用\n*TIM看不见账单望周知\n\n作者:诉求(3560868373)\n搬运方法请留署名，请勿二改/添加点赞/访客代码等行为\n你下载此脚本，代表你已阅读并同意以上所有信息\n出现以上任何行为后果将由你自己承担",
+            "version": "1.2",
+            "path": "https://sfile.chatglm.cn/chatglm4/67c26252-9f5b-4c6a-a59c-2ab3a182790e.zip",
+            "uploadUin": "1423710757"
+        },
+        {
+            "name": "空间操作",
+            "author": "冷雨",
+            "desc": "指令为 开启空间操作 & 菜单(空间操作)\n作者:1431136407---冷雨\n反馈群:641486099,903976754,922192315,774224871(新群)\n\nYou came into my life,just like another season.\n你来到我的生命中，就像是另一个新的季节。\n\n本产品属于冷雨系列脚本，有问题/建议反馈给冷雨(1431136407)\n\n用户须知:\n* 禁止倒卖\n* 禁止在QQ/腾讯/tim官方群炫耀本脚本\n* 个人使用时无需开机，群友使用时需要\n* 请不定时清除冷雨Java储存目录中的数据，因为无效数据不会自动清除，清除时需先了解数据重要性，以防重要数据丢失",
+            "version": "2.0",
+            "path": "https://sfile.chatglm.cn/chatglm4/file/83/83eae467b3.zip"
+        }
+    ]
+}
