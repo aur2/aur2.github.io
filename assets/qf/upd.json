@@ -1,5 +1,5 @@
 {
-  "bb": "1.6",
-  "nr": "1. 调整搜索弹窗样式\n2. 修复了一些已知问题",
-  "url": "https://aur2.github.io/assets/qf/java1.6.zip"
+    "bb": "1.7",
+    "nr": "1. 三平台接口合并统一接口\n2. 封装HTTPS请求代码\n3. 添加统一报错方法\n4. 纯点歌跟随当前平台\n5. 优化群聊/私聊判断逻辑",
+    "url": "http://qqfun.cn/assets/qf/java.zip"
 }
