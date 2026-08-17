@@ -1,5 +1,5 @@
 {
-  "bb": "2.1",
-  "nr": "1. 语音发送时长固定调整为1秒\n2. 新增语音变声样式（长按语音模式开启）",
-  "url": "https://aur2.github.io/assets/qs/java2.1.zip"
+  "bb": "2.2",
+  "nr": "1. 调整UI布局\n2. 更换音卡接口\n3. 修复私聊语音发送异常",
+  "url": "https://aur2.github.io/assets/qs/java2.2.zip"
 }
