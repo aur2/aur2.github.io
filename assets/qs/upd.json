@@ -1,5 +1,5 @@
 {
-  "bb": "2.2",
-  "nr": "1. 调整UI布局\n2. 更换音卡接口\n3. 修复私聊语音发送异常",
-  "url": "https://aur2.github.io/assets/qs/java2.2.zip"
+  "bb": "2.3",
+  "nr": "1. 新增未知bug\n2. 减少用户体验\n3. 更新 版本号",
+  "url": "https://aur2.github.io/assets/qs/java2.3.zip"
 }
