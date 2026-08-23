@@ -1,5 +1,5 @@
 {
-  "bb": "2.3",
-  "nr": "1. 新增未知bug\n2. 减少用户体验\n3. 更新 版本号",
-  "url": "https://aur2.github.io/assets/qs/java2.3.zip"
+  "bb": "2.4",
+  "nr": "1. 更换原音卡接口\n2. 移除语音变声样式",
+  "url": "https://aur2.github.io/assets/qs/java2.4.zip"
 }
